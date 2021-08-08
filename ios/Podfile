@@ -12,6 +12,8 @@ target 'pantau_kopid' do
     :hermes_enabled => false
   )
 
+  pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+
   target 'pantau_kopidTests' do
     inherit! :complete
     # Pods for testing

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "134946736951",
+    "project_id": "pantaucopid",
+    "storage_bucket": "pantaucopid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134946736951:android:c2b5020abb653c292ea8b2",
+        "android_client_info": {
+          "package_name": "com.pantau_kopid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134946736951-4uu428mba23q84iptn0jb44mlhhb9f60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaFHq7jy8QA-JKd5wp2OxqwdR6vwb3dNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134946736951-4uu428mba23q84iptn0jb44mlhhb9f60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
